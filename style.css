@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+#app {
+    background-color: aquamarine;
+}
+
+#game{
+    background-color:beige;
+}
+
+.line{
+    height: 6px;
+    background-color: rgb(6, 79, 82);
+    width: 20px;
+    margin: 8px auto;
+}
